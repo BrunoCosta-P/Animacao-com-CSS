@@ -1,7 +1,7 @@
 <h1 align="center">Projeto Animação com CSS</h1>
 
 
-<p align="center">Projeto de estudo animação usando CSS JS e HTML</p>
+<h2 align="center">Projeto de estudo animação usando CSS JS e HTML</h2>
 
 
 ## 🛠 Tecnologias
