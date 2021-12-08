@@ -4,7 +4,7 @@ class Icones {
     }
 
     animaIcones () {
-        console.log (this.listaIcones)
+        TweenMax.to(this.listaIcones, .5, {scale: 0.9, repeat: -1, yoyo: true},)
     }
 }
 

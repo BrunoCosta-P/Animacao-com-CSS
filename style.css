@@ -79,6 +79,19 @@ p {
     margin: 20px;
 }
 
-.test {
-    height: 100vh;
+.container-footer {
+    position: relative;
+}
+
+.lett-footer {
+    width: 60%;
+    fill: #fff;
+    opacity: 0.5;
+    position: absolute;
+    left: 20%;
+    top: 30%;
+}
+
+.footer-infos {
+    text-align: center;
 }
